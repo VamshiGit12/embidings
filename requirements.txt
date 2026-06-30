@@ -1,4 +1,3 @@
-opeanai
-tiktoken
-torch
+streamlit
 sentence-transformers
+torch
